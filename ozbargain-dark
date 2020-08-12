@@ -1,0 +1,32 @@
+:root {
+    --input-bg: #;
+    --light-bg: #393e46;
+    --link-fg: #c6c4c4;
+    --linkv-fg: #c6c4c4;
+    --input-fg: #c6c4c4;
+    --tag-fg: #c6c4c4;
+    --page-bg: #222831;
+    --page-fg: #c6c4c4;
+    --comment-user-bg: #;
+    --comment-op-bg: #;
+    --shade3-bg: #4c4f57;
+    --border-clr: #7e7c7c;
+    --shade1-bg: #593b3b;
+    
+    --votedown-bg: #4b4545;
+    --votedown-fg: #ee9090;
+    --voteup-bg: #4b4545;
+    --voteup-fg: #81f081;
+}
+
+#menu > li > a {
+    color: #c6c4c4;
+}
+
+div.foxshot-container a {
+    background-color: #000;
+}
+
+div.block h3.blocktitle {
+    color: #d2d1d1;
+}
