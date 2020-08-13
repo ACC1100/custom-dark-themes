@@ -11,7 +11,7 @@ nav.navbar .btn-secondary[aria-expanded="true"], nav.navbar .btn-default[aria-ex
     background-color: #374150 !important;
 }
 
-button, th, .custom_btn, .quick-link-button, .formulation, .info {
+button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .toggle-arrow, .tc-medium, .header, .d-sm-inline-block {
     background-color: #374150 !important;
     color: rgba(232, 230, 230, .87) !important;
 }
@@ -22,11 +22,12 @@ button, th, .custom_btn, .quick-link-button, .formulation, .info {
 }
 
 
-.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton    {
+.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton, span  {
     background-color: #222831 !important;
     color: rgba(181, 180, 180, .87) !important;
    
 }
+
 
 
 .outcome, .specificfeedback, .feedback * {
