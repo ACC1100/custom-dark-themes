@@ -11,7 +11,7 @@ nav.navbar .btn-secondary[aria-expanded="true"], nav.navbar .btn-default[aria-ex
     background-color: #374150 !important;
 }
 
-button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .toggle-arrow, .tc-medium, .header, .d-sm-inline-block {
+button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .toggle-arrow, .tc-medium, .header, .d-sm-inline-block, .closebutton, .btn-secondary {
     background-color: #374150 !important;
     color: rgba(232, 230, 230, .87) !important;
 }
@@ -22,7 +22,7 @@ button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .
 }
 
 
-.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton, span  {
+.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton, span, .moodle-dialogue-hd, .moodle-dialogue-bd  {
     background-color: #222831 !important;
     color: rgba(181, 180, 180, .87) !important;
    
