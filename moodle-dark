@@ -34,3 +34,7 @@ button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .
     background-color: #4e6c4c !important;
     color: rgb(220, 220, 220) !important;
 }
+
+.filter_mathjaxloader_equation, .answernumber, .math *, .MathJax *, .qno, .questionflagtext{
+    background-color: #374150 !important;
+}
