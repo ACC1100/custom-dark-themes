@@ -22,7 +22,7 @@ button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .
 }
 
 
-.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton, span, .moodle-dialogue-hd, .moodle-dialogue-bd  {
+.icon_content, .image_holder, .has-blocks, .card-title, .card-body, .list-group-item, .list-group, .bg-white, [data-region="drawer"], body, html, section, .unread, .dropdown-menu, .listItem, .page-item, .disabled, .page-link, .custom-select, .userinfoblock, .d-inline, .no-overflow, td, .active, .active_tree_node, .region_main_settings_menu_proxy, .qnbutton, span, .moodle-dialogue-hd, .moodle-dialogue-bd, .fp-content-center, .fp-navbar, .ygtvitem, .fp-content {
     background-color: #222831 !important;
     color: rgba(181, 180, 180, .87) !important;
    
@@ -37,4 +37,8 @@ button, th, .custom_btn, .quick-link-button, .formulation, .info, .the_toggle, .
 
 .filter_mathjaxloader_equation, .answernumber, .math *, .MathJax *, .qno, .questionflagtext{
     background-color: #374150 !important;
+}
+
+.form-control {
+    color: rgb(0, 0, 0) !important;
 }
