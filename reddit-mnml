@@ -75,3 +75,29 @@ NREPause,
 {
     display:none;
 }
+
+/* Extra comment stuff */
+a[data-event-action="permalink"],
+a[data-event-action="parent"],
+.embed-comment,
+.comment-save-button.save-button.login-required,
+.save-button,
+.deleted 
+{
+    display:none;
+}
+
+/* Above comment below post thing */
+.panestack-title,
+.usertext-edit.md-container,
+.usertext-edit
+{
+    display:none;
+}
+
+/* flattens empty comment space */
+.flat-list.buttons,
+.flat-list
+{
+    height: 0px;
+}
