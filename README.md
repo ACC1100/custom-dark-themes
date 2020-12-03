@@ -15,3 +15,7 @@ Alternatively:
 NOTE: The alternative may overwrite existing styles! 
 
 NOTE: I did not create ALL the styles in the JSON
+
+
+# minimal reddit theme
+- Make sure you also install RES and use custom RES backup file
