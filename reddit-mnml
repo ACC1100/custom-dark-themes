@@ -1,0 +1,77 @@
+/* UI stuff */
+.premium-banner-outer,
+.sidebox.create,
+.morelink,
+.account-activity-box,
+.rank,
+.menuarea
+{
+    display:none;
+}
+
+
+/* Left sidebar stuff */
+.grippy,
+.listing-chooser
+{
+    display:none;
+}
+
+/* right sidebar */
+.side
+{
+    display:none;
+}
+
+/* footer */
+.footer-parent,
+.footer
+{
+    display:none;
+}
+
+
+/* header stuff*/
+.sr-bar,
+.sr-header-area,
+#header
+{
+    display:none;
+}
+
+
+/* Post stuff */
+.domain,
+.awardings-bar,
+.tagline,
+.viewSource,
+.noCtrlF,
+.post-sharing-button,
+.share,
+.link-save-button,
+.save-button,
+.hide-button,
+.link-save-button.save-button.login-required,
+.give-gold-button,
+.give-gold.login-required.access-required.gold-give-gold,
+.reportbtn,
+.access-required,
+.reportbtn.access-required,
+.crosspost-button,
+.post-crosspost-button,
+.flairrichtext.flaircolordark.linkflairlabel.res-flairSearch,
+.flairrichtext,
+.flaircolordark,
+.linkflairlabel,
+.NERPageMarker
+{
+    display:none;
+}
+
+/* Extra UI stuff */
+NREMail,
+NREPause,
+.nohavemail
+{
+    display:none;
+}
