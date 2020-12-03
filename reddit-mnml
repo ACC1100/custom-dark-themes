@@ -96,8 +96,7 @@ a[data-event-action="parent"],
 }
 
 /* flattens empty comment space */
-.flat-list.buttons,
-.flat-list
+div[data-type="comment"] .entry.unvoted .flat-list.buttons
 {
     height: 0px;
 }
